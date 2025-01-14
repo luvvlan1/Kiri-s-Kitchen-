@@ -1,1 +1,296 @@
+body {
+  background: #e6ebe5;
+  text-align: left;
+  color: darkorange;
+}
 
+p {
+  color: darkolivegreen;
+  font-family: sans-serif;
+  font-size: 15px;  
+  text-align:left;
+}
+/*This should make the text of paragraphs outside the class rule set olive green*/
+
+h1 {
+  font-weight: bold;
+font-family:fantasy;
+  color: darkolivegreen;
+}
+  
+.vegetablerolls {
+  background-color:darkorange;
+  color:white;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:30px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:red;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+
+}
+
+.cheeseburger{
+  background-color:darkslategray;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:#ffffff;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  color:white;
+
+}
+
+.grilledsalmon{
+background-color:darkslategray;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:darkolivegreen;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+ color:white;
+
+}
+
+.springrolls.jpeg{
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:red;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+
+}
+
+.summerberrysalad{
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:white;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  color:white;
+  background-color:#8f8cdd;
+}
+
+.mint-lemonade{
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:white;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  color:white;
+  background-color:olive;
+}
+
+.lavacake{
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  background-color:#a30505;
+  color:white;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:red;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  
+}
+
+.cheesyalfredo{
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:white;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  color:white;
+  background-color:darkorange;
+}
+
+.butternut-sqaush{
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;  
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:white;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  color:white;
+  background-color:olive;
+}
+
+.houseblend{
+ background-color:darkred;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;  
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:olive;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+color:white;
+}
+
+.apple-pie{
+  background-color: darkolivegreen;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;  
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:#e6ebe5;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  color:white;
+
+
+}
+
+.clamchowder {
+  background-color:rgb(255, 255, 255);
+  color:darkorange;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:darkorange;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+
+}
+
+
+.desert {
+  font-family: fantasy;
+  letter-spacing: 3px;
+  border-style:ridge;
+  border-color:rgb(255, 0, 0);
+  background-color:darkolivegreen;
+  color:#e6ebe5;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+}
+
+img {
+  float:left;
+  height:inherit;
+  width: 325px;
+  margin: 15px;
+  border-color: darkolivegreen;
+  border-width: 7px;
+  border-style:ridge;
+  border-radius: 10px;
+  width:325px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:white;
+  text-align:center;
+  margin:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  color:white;
+  background-color:olive;
+}
+/*This will make the images look nicer and not take up too much or too little of the page*/
+
+.image-gallery {
+  display: flex;
+ flex-wrap:wrap;
+  flex-direction:row;
+  margin: 20px; 
+  justify-content:center;  
+}
+
+.image-gallery > img{
+  align-self: center;
+}
+.image-gallery > h4{
+  align-self:flex-start;
+}
+
+
+.image-gallery > p {
+  align-self: flex-end;
+}
